@@ -8,7 +8,6 @@
 
 <script>
 import Header from './components/layout/Header'
-import Aside from './components/layout/Aside'
 
 import Todos from './components/Todos'
 import AddTodo from './components/AddTodo'
@@ -17,7 +16,6 @@ export default {
   name: 'app',
   components: {
     Header,
-    Aside,
     Todos,
     AddTodo
   },
