@@ -1,4 +1,10 @@
-# vuetodolist
+# Vue Todo List
+
+A simple todolist created with Vue.js.
+
+Based on the Vue.js tutorial:
+https://www.youtube.com/watch?v=Wy9q22isx3U
+
 
 ## Project setup
 ```
